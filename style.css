@@ -88,6 +88,11 @@ body {
     position: relative;
     display: inline-block;
 }
+.col-sm-6{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
 
 /* Skills styling */
 .skill-card {
